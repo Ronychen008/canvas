@@ -5,14 +5,33 @@
   <title>Title</title>
 </head>
 <body>
-  <canvas id="haha" width="800" height="800"></canvas>
+  <canvas id="haha" width="800" height="600"></canvas>
 <script>
   const canvas = document.getElementById('haha');
   const asd = canvas.getContext('2d');
-  asd.moveTo(0,0);
+  const rectWidth=10;
+  const reactHeight=10;
+  canvas.style.border="1px solid #444543";
+  asd.strokeStyle="#999990";
+  asd.lineWidth=1;
+ for (let i=0;i<canvas.width;i++) {
+   // 先画横线
+   asd.moveTo(0,i* reactHeight);
+   asd.lineTo(canvas.width,i* reactHeight);
+   asd.moveTo(i*rectWidth,0);
+   asd.lineTo(i*rectWidth,canvas.height);
+   asd.stroke();
+  }
+  asd.beginPath();//开启新状态
+  asd.lineWidth=4;
+  asd.strokeStyle="green";
+  asd.moveTo(100,500);
+  asd.lineTo(700,500);
+  asd.moveTo(100,500);
   asd.lineTo(100,100);
+
   asd.stroke();
-  asd.strokeStyle="red";
+
 
 </script>
 </body>
