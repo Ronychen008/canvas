@@ -22,7 +22,7 @@
    asd.lineTo(i*rectWidth,canvas.height);
    asd.stroke();
   }
-  asd.beginPath();//开启新状态
+  asd.beginPath();//开启新状态,可以继承上一个状态的样式，但是当前状态设置的样式只能作用于当前状态
   asd.lineWidth=4;
   asd.strokeStyle="green";
   asd.moveTo(100,500);

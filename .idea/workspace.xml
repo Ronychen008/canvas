@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5288b8f-fe1e-4267-9b3b-760844dd10bb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../reduxDemo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/canvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/canvas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../haha.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../haha.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../reduxDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reduxDemo/.idea/workspace.xml" afterDir="false" />
@@ -38,12 +38,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="820" />
+          <entry key="html" value="995" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="820" />
+          <entry key="HTML" value="995" />
         </counts>
       </usages-collector>
     </session>
@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/canvas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="313">
+              <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -139,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576590634654</updated>
-      <workItem from="1576590636296" duration="4405000" />
+      <workItem from="1576590636296" duration="4955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4405000" />
+    <option name="totallyTimeSpent" value="4955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -178,8 +178,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/canvas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="313">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
         </state>
       </provider>
     </entry>
